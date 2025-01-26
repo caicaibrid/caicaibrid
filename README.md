@@ -14,9 +14,11 @@
 
 
 - 🔭 10年老前端 前端Leader
+- ☺️ web2 web3
 - 😄 React Vue 主框架
 - 😈 Electron NwJS 桌面应用
-- 📫 PC H5 小程序 多端 钉钉 ReactNative 都有涉及
+- 📫 PC H5 小程序 多端 钉钉 ReactNative
+- 😮 wagmi web3 ether RainbowKit walletconnect 
 - 🤔 大屏展示 屏幕适配 
 - 💬 工程化建设 
 - 🏷 性能优化
